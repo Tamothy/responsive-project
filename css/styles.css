@@ -25,3 +25,16 @@ img {
 .container-fluid {
   height: 100%;
 }
+
+/*Custom padding for desktop devices*/
+@media screen and (min-width: 992px) {
+  .padding-desktop {
+    padding-top: 46px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .padding-desktop {
+    padding-top: 56px;
+  }
+}
