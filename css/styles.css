@@ -23,9 +23,13 @@ img {
   height: auto;
 }
 
+img:hover {
+  filter: brightness(.7);
+}
+
 p {
   text-indent: 50px;
-  padding-top: 3em;
+  padding-top: 1em;
 }
 
 .container-fluid {
