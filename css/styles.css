@@ -20,21 +20,29 @@ html, body {
 
 img {
   max-width: 100%;
+  height: auto;
+}
+
+p {
+  text-indent: 50px;
+  padding-top: 3em;
 }
 
 .container-fluid {
   height: 100%;
 }
 
-/*Custom padding for desktop devices*/
+/*Custom media query for desktop devices*/
 @media screen and (min-width: 992px) {
-  .padding-desktop {
-    padding-top: 46px;
+  .media-background {
+    background-color: #EC5D62;
+    padding-left: 2em;
   }
 }
 
-@media screen and (min-width: 1200px) {
-  .padding-desktop {
-    padding-top: 56px;
+/*Custom media query for mobile devices*/
+@media screen and (max-width: 767px) {
+  .mobile-padding {
+    padding-bottom: 1em;
   }
 }
