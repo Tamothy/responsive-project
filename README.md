@@ -20,9 +20,9 @@ Tam Nguyen's email: mr.tamron@gmail.com
 
 ## Technologies Used
 
-Bootstrap
-
 CSS
+
+Bootstrap
 
 JavaScript
 
