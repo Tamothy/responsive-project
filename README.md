@@ -9,7 +9,7 @@ CSS project implementing responsive design for a snowboarding website. This appl
 ## Setup/Installation Requirements
 
 * Check out the GitHub pages link: https://tamothy.github.io/responsive-project
-* Download clone repository
+* Download or clone repository
 * Use Atom to customize changes
 * Make sure to commit regularly on terminal
 * Don't forget to push to remote repository
